@@ -1,1 +1,3 @@
-# TDT4171---Artificial-Intelligence-Methods
+# Artificial-Intelligence-Methods
+
+Repository for storing exercies in TDT4171
